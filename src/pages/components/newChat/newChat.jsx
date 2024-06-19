@@ -4,7 +4,7 @@ import { IoMdAttach } from "react-icons/io";
 import Features from "./features";
 import ChatCards from "./chatCards";
 import { useFormik } from "formik";
-import FileUpload from "./FileUpload";
+import FileUpload from "./fileUpload";
 import linear from "../../assets/images/linear_loader.gif";
 import Image from "next/image";
 import { useRouter } from "next/router";
